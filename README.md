@@ -1,4 +1,4 @@
-### " ###
+### "Dasboard" ###
 
 --------------------------------------------------------------
 
@@ -8,9 +8,7 @@
 
 2) __DESARROLLO__
 
-  2.1 __Breather__
-
-   A) Navegación Global :
+  A) Navegación Global :
 
     * Dasboard Chile
     * Dasboard México
